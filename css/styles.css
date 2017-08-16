@@ -1,0 +1,12 @@
+H1{
+color: blue;
+align-items: center;
+font-weight: bold;
+font-family: cursive;
+}
+
+H2{
+color:inherit;
+font-family: monospace;
+font-weight: bold;
+}
